@@ -3,7 +3,7 @@
 > A personal project and guide by a cybersecurity enthusiast  
 > to get the TP-Link Archer T2U Plus WiFi adapter working on Kali Linux.
 
-<p align="center"><img src="./IMG_6363.png" alt="Archer T2U Plus" style="width:100%; height:auto;"></p>
+<p align="center"><img src="./IMG_6363 2.png" alt="Archer T2U Plus" style="width:50%; height:auto;"></p>
 
 ---
 
