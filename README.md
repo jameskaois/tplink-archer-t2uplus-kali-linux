@@ -91,7 +91,7 @@ Driver code: aircrack-ng/rtl8812au
 Inspiration: Kali Linux forums, Reddit, GitHub community
 
 ## 🧑‍💻 Author
-[JamesCao](https://github.com/jameskaois)
+[James Cao](https://github.com/jameskaois)
 
 Kali Linux user, WiFi hacker in training, open-source supporter.
 
